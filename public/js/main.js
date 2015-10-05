@@ -14,7 +14,7 @@
 // _____________________________________________________________________________
 // Setting up API requests
 
-var pirateEndpoint = "http://localhost:8080/piratespeak"
+var pirateEndpoint = "/piratespeak"
 var pirateParameters = {
 	text: ""
 }

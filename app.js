@@ -44,7 +44,7 @@ app.all("*", function(req, res) {
 });
 
 
-var port = process.env.PORT || 5000;
+var port = process.env.PORT || 8080;
 app.listen(port, function (err) {
 	if (err) throw err;
 	console.log("Waiting for requests...");
