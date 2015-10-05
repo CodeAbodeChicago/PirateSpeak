@@ -7,10 +7,13 @@
     "express": "^4.13.3"
   },
   "devDependencies": {},
+  "engines": {
+  	"node": "4.1.1"
+  }
   "scripts": {
   	"start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Michael Hadley",
   "license": "ISC"
 }
