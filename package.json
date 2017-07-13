@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "engines": {
-    "node": "4.1.1"
+    "node": ">=4.8.4"
   },
   "scripts": {
   "start": "node app.js",
